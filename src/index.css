@@ -1,0 +1,96 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.quizw{
+  width: 750px;
+  border: 1px none;
+ text-align: center;
+ margin-left: 300px;
+ margin-top: 70px;
+ background-color: rgb(180, 191, 196);
+  /* background-color: rgb(250, 250, 250); */
+}
+.option-align button{
+  width: 250px;
+  padding: 10px;
+  font-weight: 700;
+  margin: 5px;
+  border: 1px solid;
+  border-radius: 5px;
+  background-color: antiquewhite;
+}
+.showans  button{
+  width: 250px;
+  padding: 10px;
+  font-weight: 700;
+  margin: 5px;
+  border: 1px solid;
+  border-radius: 5px;
+}
+.showans  label{
+  font-weight: 700;
+  
+}
+.starsize{
+  font-size: 20px;
+}
+.correct{
+  width: 250px;
+  padding: 10px;
+  font-weight: 700;
+  margin: 5px;
+  border: 1px solid;
+  border-radius: 5px;
+}
+.lab{
+  font-weight: 700;
+  font-size:18px;
+  margin-right: 5px;
+}
+.next{
+  width: 250px;
+  padding: 10px;
+  font-weight: 700;
+  margin: 5px;
+  border: 1px solid;
+  border-radius: 5px;
+}
+label{
+  color: rgb(123, 123, 236);
+  font-size: 17px;
+}
+.reset{
+  text-align:center;
+  margin: 0 auto;
+  margin-top: 200px;
+  font-size: 17px;
+  font-weight:700;
+  width: 400px;
+  height:250px;
+  background-color: rgb(238, 231, 223);
+  border: 1px solid;
+  border-radius: 20px;
+}
+.heading{
+  margin: 5px;
+}
+.collabel{
+  color:red
+}
+.collabel1{
+  color:green;
+}
+.resetButton{
+  margin-left: 400px;
+}
